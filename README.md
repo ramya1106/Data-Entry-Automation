@@ -1,4 +1,4 @@
-# Zillow Property Data Automation Script
+# Data Entry Automation
 
 This script automates scraping property data (address, price, and links) from a Zillow clone website and populates the data into a Google Form using Selenium.
 
